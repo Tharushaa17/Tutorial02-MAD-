@@ -25,7 +25,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:contentDescription="To"
-            android:text="JavaTpoint custom Toast" /> <
+            android:text="JavaTpoint custom Toast" /> 
         /LinearLayout> 2.
 
     </LinearLayout></LinearLayout>
